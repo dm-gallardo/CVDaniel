@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    size-adjust: 100%;
+}
+header {
+    background-color: #E3F4F4;
+}
+
+header img{
+    width: 300px;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.name{
+    align-items: center;
+    padding: 75px;
+    margin: 0px;
+}
+
+.name h2{
+    color: #aaa2a2;
+}
+
+ul {    list-style-type: none;
+}
+
+.cuerpo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+footer {
+    background-color: #E3F4F4;
+    height: 100px;
+}
